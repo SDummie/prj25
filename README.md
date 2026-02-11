@@ -1,4 +1,4 @@
-Beyond Booking 2.0 – Hotel Management System
+#Beyond Booking 2.0 – Hotel Management System
 “A full-stack web application aimed at streamlining hotel operations through efficient booking management, optimized room search, and scalable backend services.”
 Tech Stack: React, Node.js, Express.js, PostgreSQL, JavaScript, BST, AVL Trees
 • Designed and developed a complete hotel management platform where users can search rooms, make bookings, manage guest records, and track maintenance activities.
